@@ -1,0 +1,8 @@
+#
+# Cron para atualizar o Fechamento da Crypto BTC
+#
+00 6 * * * /CAMINHO_DO_SCRIPT/insert_yesterday_crypto.sh >/dev/null 2>&1
+#
+#
+
+

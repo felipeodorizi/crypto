@@ -1,0 +1,5 @@
+mysql-connector-python
+yahoo-fin         
+yahooquery
+yahoofinancials
+pandas
